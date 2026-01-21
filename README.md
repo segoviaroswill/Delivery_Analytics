@@ -66,5 +66,12 @@ Analizar los tiempos de entrega y detectar cómo influyen variables como el trá
 
 ---
 
-## 👤 Autor
-Roswill Segovia
+## 👥 Autores
+Este proyecto fue realizado en equipo por [segoviaroswill](https://github.com/segoviaroswill) y [Luis Chacón](https://github.com/Luischacom).
+Trabajamos de forma conjunta, compartiendo el mismo entorno de trabajo y tomando decisiones en pareja durante todo el proceso. Ambos contribuimos en:
+
+- Limpieza y preparación de datos  
+- Análisis exploratorio  
+- Desarrollo del código en Python  
+- Visualizaciones y conclusiones  
+- Documentación del proyecto
