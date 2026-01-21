@@ -52,9 +52,6 @@ Analizar los tiempos de entrega y detectar cómo influyen variables como el trá
 ### KPIs de actividad y demanda
 - Actividad por día de la semana
 - Pedidos por hora punta
-
-### KPIs de desempeño por restaurante
-- Top 5 restaurantes más lentos
 ---
 
 ## Herramientas utilizadas
