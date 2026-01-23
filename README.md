@@ -59,7 +59,7 @@ Evaluar cómo influyen variables como el tráfico, el clima, el tipo de vehícul
 - Implementar un **modelo predictivo** para estimar el tiempo de entrega.
 
 ## 👥 Autores 
-Este proyecto fue realizado en equipo por. Trabajamos de forma conjunta, compartiendo el mismo entorno de trabajo y tomando decisiones en pareja durante todo el proceso. Ambos contribuimos en:
+Este proyecto fue realizado en equipo por @segoviaroswill y @luischacom. Trabajamos de forma conjunta, compartiendo el mismo entorno de trabajo y tomando decisiones en pareja durante todo el proceso. Ambos contribuimos en:
 
 - Limpieza y preparación de datos  
 - Análisis exploratorio  
