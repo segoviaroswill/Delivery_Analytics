@@ -54,3 +54,5 @@ Evaluar cómo influyen variables como el tráfico, el clima, el tipo de vehícul
 - El **tráfico alto** incrementa significativamente el tiempo promedio de entrega.  
 - Las **motos** presentan mejores tiempos en horas pico.  
 - La **distancia recorrida** tiene menor impacto que factores operativos y contextuales.
+
+  
