@@ -3,6 +3,7 @@
 ## Descripción
 Este proyecto analiza los tiempos de entrega de pedidos con el objetivo de identificar los factores que generan retrasos y proponer mejoras operativas basadas en datos.
 
+
 ## Objetivo
 Evaluar cómo influyen variables como el tráfico, el clima, el tipo de vehículo y la ciudad en la eficiencia del servicio de entrega.
 
